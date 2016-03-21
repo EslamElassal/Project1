@@ -2,7 +2,9 @@
 public class Main {
 
 	public static void main(String[] args) {
- System.out.print("Eslam");
+		asd();
 	}
-
+public static void asd()
+{ System.out.print("Eslam");
+}
 }
